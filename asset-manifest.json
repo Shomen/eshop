@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eshop/static/css/main.d658a4c4.chunk.css",
+    "main.js": "/eshop/static/js/main.22456dd9.chunk.js",
+    "main.js.map": "/eshop/static/js/main.22456dd9.chunk.js.map",
+    "runtime~main.js": "/eshop/static/js/runtime~main.f83ae883.js",
+    "runtime~main.js.map": "/eshop/static/js/runtime~main.f83ae883.js.map",
+    "static/js/2.10e92a63.chunk.js": "/eshop/static/js/2.10e92a63.chunk.js",
+    "static/js/2.10e92a63.chunk.js.map": "/eshop/static/js/2.10e92a63.chunk.js.map",
+    "index.html": "/eshop/index.html",
+    "precache-manifest.b32c61c5009340646518486cd1b5aca1.js": "/eshop/precache-manifest.b32c61c5009340646518486cd1b5aca1.js",
+    "service-worker.js": "/eshop/service-worker.js",
+    "static/css/main.d658a4c4.chunk.css.map": "/eshop/static/css/main.d658a4c4.chunk.css.map",
+    "static/media/App.css": "/eshop/static/media/tamara-bellis-388531-unsplash.692de067.jpg",
+    "static/media/amanda-vick-1404835-unsplash.jpg": "/eshop/static/media/amanda-vick-1404835-unsplash.6c5e4965.jpg",
+    "static/media/chuttersnap-165289-unsplash.jpg": "/eshop/static/media/chuttersnap-165289-unsplash.736134a1.jpg",
+    "static/media/clem-onojeghuo-150467-unsplash.jpg": "/eshop/static/media/clem-onojeghuo-150467-unsplash.08c06bb5.jpg",
+    "static/media/fezbot2000-65194-unsplash.jpg": "/eshop/static/media/fezbot2000-65194-unsplash.86f1da6a.jpg",
+    "static/media/freestocks-org-187367-unsplash.jpg": "/eshop/static/media/freestocks-org-187367-unsplash.bc8c72ba.jpg",
+    "static/media/jonathan-cooper-1172190-unsplash.jpg": "/eshop/static/media/jonathan-cooper-1172190-unsplash.7ffb4f6a.jpg",
+    "static/media/logo.svg": "/eshop/static/media/logo.5d5d9eef.svg",
+    "static/media/patricia-prudente-569875-unsplash.jpg": "/eshop/static/media/patricia-prudente-569875-unsplash.af1b478a.jpg",
+    "static/media/senjuti-kundu-349558-unsplash.jpg": "/eshop/static/media/senjuti-kundu-349558-unsplash.b4802a83.jpg"
+  }
+}
