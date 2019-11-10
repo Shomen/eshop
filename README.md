@@ -6,7 +6,7 @@
 
 ### - Api End point - <a href="https://jsonplaceholder.typicode.com/" target="_blank">https://jsonplaceholder.typicode.com/</a>
 
-### - Images used from - <a href="https://unsplash.com/" target="_blank">https://unsplash.com/</a>
+### - Images source - <a href="https://unsplash.com/" target="_blank">https://unsplash.com/</a>
 
 
 <h3>Check Demo here - <a href="https://react-app-eshop.herokuapp.com/" target="_blank">Demo</a></h3>
