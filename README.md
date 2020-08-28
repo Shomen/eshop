@@ -9,5 +9,5 @@
 ### - Image source - <a href="https://unsplash.com/" target="_blank">https://unsplash.com/</a>
 
 
-<h3>Check Demo here - <a href="https://react-app-eshop.herokuapp.com/" target="_blank">Demo</a></h3>
+<h3>Check Demo here - <a href="http://122.248.192.24:5000/home" target="_blank">Demo</a></h3>
 
